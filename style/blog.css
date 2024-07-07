@@ -1,0 +1,8 @@
+div{
+    background-color: aquamarine;
+    backface-visibility: inherit;
+    inset-block-start:20px ;
+    
+    background-position: 34%;
+    background-image: -moz-repeating-linear-gradient();
+}
